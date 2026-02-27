@@ -373,6 +373,7 @@ The `yarn dev:client` process launches [the webpack DevServer for client-side Ja
 while `yarn dev:edge` starts [Wrangler to serve the Pages (edge) code](https://developers.cloudflare.com/pages/functions/local-development/).
 
 [Back to 📚TOC](#-table-of-contents)
+<!-- Redeploy to apply MICROFEED_PUBLIC_READ = true -->
 
 ## 🛡️ License
 microfeed is licensed under the [AGPL-3.0](https://github.com/microfeed/microfeed/blob/main/LICENSE) license. Please see [the LICENSE file](https://github.com/microfeed/microfeed/blob/main/LICENSE) for more information.
